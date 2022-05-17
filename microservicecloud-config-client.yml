@@ -30,5 +30,5 @@ spring:
     
     
 service:
-  client:config-test
+  client: config-test
     

@@ -29,6 +29,6 @@ spring:
     name: microservicecloud-config-client
     
     
-eureka:
+service:
   client:config-test
     
